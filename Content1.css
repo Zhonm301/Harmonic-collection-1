@@ -1,0 +1,65 @@
+body{
+    background-color: #D4E4E4;
+    margin: 0; 
+    padding: 0
+}
+
+.text1{
+    top: 80px;
+    left: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    position: absolute;
+    top: 22%;
+    left: 49%;
+    font-size: larger;
+    letter-spacing: 4px;
+
+}
+
+.text2{
+    top: 80px;
+    left: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    position: absolute;
+    top: 60%;
+    left: 49%;
+    font-size: larger;
+    letter-spacing: 5px;
+}
+
+.image{
+    background-color:lightcyan;
+    width: 650px;
+    height: 550px;
+    position: absolute;
+    top: 20%;
+    left: 4%;
+}
+
+img{
+    width:1520px;
+    height: 1100px;
+}
+.hi{
+    width: 650px;
+    height: 550px;
+    position: absolute;
+    top: 20%;
+    left: 4%;
+}
+
+
+
+p1{
+   position: absolute;
+   top: 95%;
+   left: 95%;
+}
+
+.Exit{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    
+}
